@@ -1,14 +1,9 @@
 # Polop Technologies
 
-### 12-14 YEAR OLD CODERS
-### CODING AWESOME PROJECTS TO TRY TO HELP PEOPLE
+### 12-14 YEAR OLDs CODING AWESOME PROJECTS TO TRY TO HELP PEOPLE
 ### ARSENAL:
-#### Python Bullets
-#### Java Bombs
-#### C# Planes
-#### C++ Tanks
-#####
-#####
+#### Python Bullets, Java Bombs
+#### C# Planes, C++ Tanks
 ###### Don't forget to follow us for AWESOME projects!
 ###### -Polop Technologies
 

@@ -4,7 +4,7 @@
 ### ARSENAL:
 #### Python Bullets, Java Bombs
 #### C# Planes, C++ Tanks
-### Go Lightning Bolts, SQL Swords
+#### Go Lightning Bolts, SQL Swords
 ###### Don't forget to follow us for AWESOME projects!
 ###### -Polop Technologies
 
